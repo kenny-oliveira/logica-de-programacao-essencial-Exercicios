@@ -1,0 +1,18 @@
+Inicio-dia
+Acordar
+Levantar da cama
+Trocar de roupa
+Preparar Cafe
+Escovar os dentes
+Ir para a aula
+Sair da aula
+Almoçar
+Escovar o dentes
+Lavar a louça
+Tomar Cafe da tarde
+Jantar
+Escovar o dentes
+Jogar no tempo livre
+Tomar Banho
+Dormir
+Fim-dia

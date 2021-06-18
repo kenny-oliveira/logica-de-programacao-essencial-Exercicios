@@ -1,0 +1,23 @@
+INICIO DO JOGO
+Pinguim Vermelho Pai entra no gelo
+Pinguim Vermelho Filho entra no gelo
+ATRAVESSA
+Pinguim Vermelho Pai Sai do gelo
+ATRAVESSA
+Pinguim Verde Filho entra no gelo
+ATRAVESSA
+Pinguim Vermelho Filho sai do gelo
+ATRAVESSA
+Pinguim Verde Pai entra no gelo
+ATRAVESSA
+Pinguim Verde Pai sai do gelo
+ATRAVESSA
+Pinguim Azul Filho entra no gelo
+ATRAVESSA
+Pinguim Verde filho sai do gelo
+ATRAVESSA
+Pinguim Azul Pai entra no gelo
+ATRAVESSA
+Pinguim Azul Pai sai do gelo
+Pinguim Azul filho sai do gelo
+FIM DO JOGO
